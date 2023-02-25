@@ -26,6 +26,9 @@ keras==2.11.0
 gym==0.26.2
 
 """
+# you will also need to install MoviePy, and you do not need to import it explicitly
+# pip install moviepy
+
 # import Keras
 import keras
 
